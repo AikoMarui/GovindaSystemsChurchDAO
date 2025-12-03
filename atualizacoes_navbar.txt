@@ -1,0 +1,10 @@
+Alterações realizadas:
+
+1. Atualização da cor dos links de navegação para azul mais escuro (#0f1a4a) no arquivo:
+   - website/src/app/globals.css (linhas 186-192)
+
+2. Atualização da configuração do Next.js para modo de desenvolvimento no arquivo:
+   - website/next.config.ts (remoção de 'output: export' e 'basePath')
+
+3. Adição de um redirecionamento na rota /pages para a raiz / no arquivo:
+   - website/src/app/pages/page.tsx
